@@ -1,4 +1,4 @@
-baseURL = "Rahim-chan.github.io/"
+#baseURL = "Rahim-chan.github.io/"
 languageCode = "cn"
 defaultContentLanguage = "cn"
 title = "小陈村落"                         # site title  # 网站标题
@@ -9,7 +9,6 @@ paginate = 4                           # shows the number of articles  # 首页�
 enableEmoji = true
 googleAnalytics = ""                   # your google analytics id
 disqusShortname = ""                   # your discuss shortname
-publishDir = "docs"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 pygmentscodefencesguesssyntax = true
