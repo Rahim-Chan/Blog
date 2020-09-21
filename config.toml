@@ -1,4 +1,5 @@
-#baseURL = "Rahim-chan.github.io/"
+baseURL = "https://Rahim-chan.github.io/"
+relativeURLs = "true"
 languageCode = "cn"
 defaultContentLanguage = "cn"
 title = "小陈村落"                         # site title  # 网站标题
@@ -44,7 +45,7 @@ pygmentscodefencesguesssyntax = true
   subTitle = "时光隧道"                                       # site's subTitle  # 网站二级标题
   footerSlogan = "My spiritual home"                                   # site's footer slogan  # 网站页脚标语
   keywords = ["FrontEnd","React","Webpack","SHENZHEN"]                                  # site's keywords  # 网站关键字
-  description = "厝."                        # site's description  # 网站描述
+  description = "厝 is Home"                        # site's description  # 网站描述
   enableMathJax = true                                                 # enable mathjax  # 是否使用mathjax（数学公式）
   enableSummary = true                                                 # display the article summary  # 是否显示文章摘要
   mainSections = ["posts","post"]
