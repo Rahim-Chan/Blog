@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webpack on 小陈村落</title>
+    <link>https://Rahim-chan.github.io/tags/webpack/</link>
+    <description>Recent content in webpack on 小陈村落</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Mon, 21 Sep 2020 12:29:38 +0800</lastBuildDate><atom:link href="https://Rahim-chan.github.io/tags/webpack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://Rahim-chan.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 21 Sep 2020 12:29:38 +0800</pubDate>
+      
+      <guid>https://Rahim-chan.github.io/posts/my-first-post/</guid>
+      <description>小程序原理 按需加载原理 ReadyOnly 跟 froze 白屏怎么捕捉 按钮点击无反应，下次怎么预防 import、import()编译后 RESTFUL、GRaphl</description>
+    </item>
+    
+  </channel>
+</rss>

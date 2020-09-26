@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://Rahim-chan.github.io/posts/daily/</loc>
+    <lastmod>2020-09-25T20:47:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Rahim-chan.github.io/posts/</loc>
+    <lastmod>2020-09-25T20:47:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Rahim-chan.github.io/</loc>
+    <lastmod>2020-09-25T20:47:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Rahim-chan.github.io/posts/tree-shaking-js-runtime/</loc>
+    <lastmod>2020-09-24T11:17:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Rahim-chan.github.io/posts/webpack/</loc>
+    <lastmod>2020-09-21T21:16:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Rahim-chan.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Rahim-chan.github.io/tags/</loc>
+  </url>
+  
+</urlset>
